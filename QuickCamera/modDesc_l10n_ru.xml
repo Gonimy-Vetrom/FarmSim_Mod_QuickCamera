@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <texts>
+    <text name="QuickCamRight" text="QuickCamera: Посмотреть на 45&#176; вправо" />
+    <text name="QuickCamLeft" text="QuickCamera: Посмотреть на 45&#176; влево" />
+    <text name="QuickCamForward" text="QuickCamera: Посмотреть вперед" />
+    <text name="QuickCamBackward" text="QuickCamera: Посмотреть назад" />
+    <text name="QuickCamForBack" text="QuickCamera: Переключатель взляда вперед/назад" />
+    <text name="QuickCamZoomIn" text="QuickCamera: Приблизить" />
+    <text name="QuickCamZoomOut" text="QuickCamera: Отдалить" />
+    <text name="QuickCamToggleReset" text="QuickCamera: Запоминать положение камеры" />
+    <text name="QuickCamLockCustom" text="QuickCamera: Keep new forward-cam" /> <!-- needs translation later, I did not understand the function-->
+  </texts>
+</l10n>
