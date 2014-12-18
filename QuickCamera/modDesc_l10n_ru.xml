@@ -9,6 +9,6 @@
     <text name="QuickCamZoomIn" text="QuickCamera: Приблизить" />
     <text name="QuickCamZoomOut" text="QuickCamera: Отдалить" />
     <text name="QuickCamToggleReset" text="QuickCamera: Запоминать положение камеры" />
-    <text name="QuickCamLockCustom" text="QuickCamera: Keep new forward-cam" /> <!-- needs translation later, I did not understand the function-->
+    <text name="QuickCamLockCustom" text="QuickCamera: Установить как 'камера по умолчанию'" />
   </texts>
 </l10n>
